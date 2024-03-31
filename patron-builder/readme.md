@@ -1,4 +1,6 @@
 # PATRON DE DISEÑO : BUILDER
+Es de la familia de patrones creacionales
+
 ## Cuando Utilizar
 Cuando hay objetos con muchas opciones posibles (atributos) de seteo. Ejemplos:
 * java.lang.StringBuilder
