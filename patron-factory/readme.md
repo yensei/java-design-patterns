@@ -3,8 +3,8 @@ Es de la familia de patrones creacionales
 
 ## Cuando Utilizar
 Nos simplifica la tarea la construcción de una jerarquía de clases y las encapsula
-_Ejemplos:_
-- Calendar.getInstance()
+- _Ejemplos:_
+    - Calendar.getInstance()
 
 ## Construcción de auto
 Ejemplo utilizados
