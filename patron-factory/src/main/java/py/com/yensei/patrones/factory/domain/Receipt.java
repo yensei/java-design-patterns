@@ -9,7 +9,6 @@ public abstract class Receipt {
     private Integer id;
     private Double amount;
     private ReceiptType receiptType;
-    private TaxType taxType;
     
     // cada clase hija debe implementar
     public abstract Double getTaxAmountIVA();

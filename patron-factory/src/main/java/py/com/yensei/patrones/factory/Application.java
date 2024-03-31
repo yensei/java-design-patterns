@@ -5,7 +5,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 import py.com.yensei.patrones.factory.domain.Receipt;
 import py.com.yensei.patrones.factory.domain.ReceiptType;
-import py.com.yensei.patrones.factory.domain.TaxType;
 
 @SpringBootApplication
 public class Application {
